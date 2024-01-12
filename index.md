@@ -29,3 +29,7 @@ def get_ldbs_uinfo():
         ldct[tstr[0].strip()]=val
     return ldbs_lst
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
